@@ -1,7 +1,7 @@
 # C-projects
-Projects that I made in C, email ananthbashyam1@gmail.com to view \n
-Connect 4 -> connect 4 game
-Text Adventure -> text adventure game
-Word Frequency
-Phone booking simulator with multi threading
-Server - Client interaction with Mathbot
+Projects that I made in C, email ananthbashyam1@gmail.com to view <br />
+Connect 4 -> connect 4 game <br />
+Text Adventure -> text adventure game <br />
+Word Frequency <br />
+Phone booking simulator with multi threading <br />
+Server - Client interaction with Mathbot <br />
